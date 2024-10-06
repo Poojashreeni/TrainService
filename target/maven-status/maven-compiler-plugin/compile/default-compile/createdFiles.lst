@@ -1,0 +1,5 @@
+Service\TrainService.class
+Model\Ticket.class
+Model\User.class
+com\TrainService\TrainService\TrainServiceApplication.class
+Controller\Controller.class
